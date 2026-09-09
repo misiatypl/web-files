@@ -4,6 +4,7 @@ export default {
     outputPath: './public',
   },
   site: {
-    title: 'Nanogen site',
+    title: 'Voltedge-Systems UK',
+author: 'Mike@Voltedge Systems',
   },
 }
